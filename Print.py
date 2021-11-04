@@ -1,0 +1,6 @@
+print("Hello World!")
+print ("Welcome to", end = ' ') 
+print ("Python3", end = '!')
+print (10 * "\n")
+print (10 * "*")
+print ("Welcome ")
